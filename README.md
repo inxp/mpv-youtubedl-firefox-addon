@@ -13,6 +13,6 @@ Obviously this addon is not signed.
 
 ### Build it manually
 1. Download the source.
-2. Download de [Add-on SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Installation).
+2. Download [Add-on SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Installation).
 3. Run `jpm xpi` inside the `project` directory.
-4. Open the `mpv-youtubedl-firfox-addon.xpi` file with Firefox developer edition.
+4. Open the `mpv-youtubedl-firefox-addon.xpi` file with Firefox developer edition.
