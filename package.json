@@ -1,9 +1,9 @@
 {
     "name": "mpv-youtubedl-firefox-addon",
     "license": "MIT",
-    "author": "Antoniy Chonkov",
-    "version": "0.1.0-alpha.3",
-    "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl.",
+    "author": "inxp",
+    "version": "0.1",
+    "description": "Watch flash videos from various sites using native player (like mpv) and youtube-dl with format selection.",
     "homepage": "https://github.com/inxp/mpv-youtubedl-firefox-addon",
     "icon": "data/icon_button.png",
     "main": "lib/main.js",
@@ -16,14 +16,14 @@
             "title": "Native player location",
             "description": "Specify native player executable full path",
             "type": "string",
-            "value": "C:\\Users\\Workgroup\\Programs\\mpv\\mpv.exe"
+            "value": ""
         },
 		{
             "name": "youtubedl",
             "title": "youtube-dl location",
             "description": "Specify youtube-dl executable full path",
             "type": "string",
-            "value": "C:\\Users\\Workgroup\\Programs\\mpv\\youtube-dl.exe"
+            "value": ""
         },
 		
         {
